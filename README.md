@@ -1,2 +1,2 @@
-# documentations
+# Documentations
 Documentation using MkDocs
